@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template-csharp-car-garage", "template-csharp-car-garage.csproj", "{6554BE8F-96B4-4C77-B57B-E066F4D5658C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car-garage-tests", "car-garage-tests\car-garage-tests.csproj", "{1446F73D-BCDC-4F07-904A-D144C0212283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6554BE8F-96B4-4C77-B57B-E066F4D5658C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6554BE8F-96B4-4C77-B57B-E066F4D5658C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6554BE8F-96B4-4C77-B57B-E066F4D5658C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6554BE8F-96B4-4C77-B57B-E066F4D5658C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1446F73D-BCDC-4F07-904A-D144C0212283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1446F73D-BCDC-4F07-904A-D144C0212283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1446F73D-BCDC-4F07-904A-D144C0212283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1446F73D-BCDC-4F07-904A-D144C0212283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2E5D1C-025A-4170-BA31-2C9E078598C4}
+	EndGlobalSection
+EndGlobal
